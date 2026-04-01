@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+mistralai
+pymongo[srv]
+python-dotenv
+pydantic>=2.8.2
